@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    flex-direction: column;
+    height: 100vh;
+}
+.formClass{
+  margin: 9px;  
+  
+}
+#formCard{
+    background-color: #4f0ca7;
+    width: 35vw;
+    height: 35vh;
+    border-radius: 25px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
